@@ -1,0 +1,4 @@
+anthropic>=2.10
+pandas>=2.2
+tabulate>=0.9
+pytest>=8
